@@ -1,0 +1,15 @@
+{
+  "name": "payload-hash-upload",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "author": "Jean-Baptiste Martin",
+  "dependencies": {
+    "sanitize-filename": "^1.6.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
