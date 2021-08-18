@@ -1,6 +1,6 @@
 # Append a hash to upload filenames in Payload CMS, and optimize your CDN caching strategy
 
-This plugin ensures safe filenames with PayloadCMS database.  
+This plugin ensures safe filenames with Payload CMS database.  
 Resized images are properly supported.
 
 ## Install
